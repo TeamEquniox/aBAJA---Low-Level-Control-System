@@ -1,7 +1,7 @@
-# 🚙 Team Equinox – aBaja Autonomous
+# 🚙 Team Equinox – aBaja
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-aBaja_Autonomous-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project-aBaja-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Team-Equinox-orange?style=for-the-badge&logo=teams" />
 </p>
 
